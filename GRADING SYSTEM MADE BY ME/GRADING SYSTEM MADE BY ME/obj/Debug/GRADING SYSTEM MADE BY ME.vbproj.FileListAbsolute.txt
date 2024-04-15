@@ -1,0 +1,10 @@
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\bin\Debug\GRADING SYSTEM MADE BY ME.exe.config
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\bin\Debug\GRADING SYSTEM MADE BY ME.exe
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\bin\Debug\GRADING SYSTEM MADE BY ME.pdb
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\bin\Debug\GRADING SYSTEM MADE BY ME.xml
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\obj\Debug\GRADING_SYSTEM_MADE_BY_ME.Form1.resources
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\obj\Debug\GRADING_SYSTEM_MADE_BY_ME.Resources.resources
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\obj\Debug\GRADING SYSTEM MADE BY ME.vbproj.GenerateResource.Cache
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\obj\Debug\GRADING SYSTEM MADE BY ME.exe
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\obj\Debug\GRADING SYSTEM MADE BY ME.xml
+C:\Users\regin\OneDrive\Documents\Visual Studio 2012\Projects\GRADING SYSTEM MADE BY ME\GRADING SYSTEM MADE BY ME\obj\Debug\GRADING SYSTEM MADE BY ME.pdb
